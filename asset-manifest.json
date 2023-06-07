@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gym-Website-ReactJS/static/css/main.b3210e10.css",
+    "main.js": "/Gym-Website-ReactJS/static/js/main.b4038a04.js",
+    "static/media/image2.png": "/Gym-Website-ReactJS/static/media/image2.353e7d7029864d4775a4.png",
+    "static/media/image3.png": "/Gym-Website-ReactJS/static/media/image3.c477f6ad6fadd3b73c5f.png",
+    "static/media/image1.png": "/Gym-Website-ReactJS/static/media/image1.9294ced9f6e09768972a.png",
+    "static/media/hero_image.png": "/Gym-Website-ReactJS/static/media/hero_image.bc7e156498f8f0f71579.png",
+    "static/media/image4.png": "/Gym-Website-ReactJS/static/media/image4.1c63fd7ae2e4ba8ae94e.png",
+    "static/media/t-image2.jpg": "/Gym-Website-ReactJS/static/media/t-image2.6adbe78ff2c340bec5d9.jpg",
+    "static/media/t-image1.jpg": "/Gym-Website-ReactJS/static/media/t-image1.3022aea6dfae2b152e91.jpg",
+    "static/media/logo.png": "/Gym-Website-ReactJS/static/media/logo.ae954b727911b919e889.png",
+    "static/media/t-image3.jpg": "/Gym-Website-ReactJS/static/media/t-image3.fcafc62e962ef8a82517.jpg",
+    "static/media/hero_image_back.png": "/Gym-Website-ReactJS/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/Gym-Website-ReactJS/index.html",
+    "main.b3210e10.css.map": "/Gym-Website-ReactJS/static/css/main.b3210e10.css.map",
+    "main.b4038a04.js.map": "/Gym-Website-ReactJS/static/js/main.b4038a04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3210e10.css",
+    "static/js/main.b4038a04.js"
+  ]
+}
